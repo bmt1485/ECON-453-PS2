@@ -1,4 +1,8 @@
 # ECON-453-PS2
+This repository contains my submission for ECON-453 Problem Set 2, which involves statistical analysis using real-world data from standardized test scores and real estate markets in college towns. The project includes computing confidence intervals, performing hypothesis testing, and generating descriptive statistics. The analysis was conducted in R, applying classical frequentist statistical methods such as t-tests and confidence interval estimation to draw inferences from sample data.
+
+
+-----------
 Question 1
 Analyze standardized test scores for randomly selected students from two schools across two
 years. The data are on D2L in pset2 data.xlsx, sheet “scores”.
